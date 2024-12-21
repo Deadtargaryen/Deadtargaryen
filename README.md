@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Manny Etukudoh 👋
 
-<!--
-**Deadtargaryen/Deadtargaryen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Deadtargaryen&style=flat-square)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer with a keen interest in web development, mobile development, open-source contributions and algorithm development. I enjoy learning new technologies and applying them to solve real-world problems.
+
+- 🔭 I’m currently working on: Tinytusk. A digital marketplace for the best digital assets on the planet.
+- 🌱 I’m currently learning: C++, .NET & Python for machine learning.
+- 👯 I’m looking to collaborate on: Open Source projects that are AI-centered alongside web development projects.
+- ⚡ Fun fact: Temple Labs is about to launch🚀
+
+## Skills
+
+Here are some of the technologies and tools I work with:
+
+- **Languages:** Python, JavaScript, C++, .NET, Java, Rust.
+- **Frameworks:** React, Django, Next, Nest, SpringBoot.
+- **Tools:** Git, Docker, Kubernetes, K8s, terraform, Github, Jest.  
+- **Databases:** MySQL, PostgreSQL, MongoDB, MariaDB.
+
+## GitHub Stats
+
+![Deadtargaryen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deadtargaryen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadtargaryen&layout=compact&theme=radical)
+
+
+## Connect with Me
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [Personal Website](#)
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
