@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/manny-etukudoh-97b81a194)
+- [LinkedIn](https://linkedin.com/in/manny-etukudoh-97b81a194)
 - [Twitter](https://x.com/deadtargaryan)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
