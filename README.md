@@ -7,7 +7,7 @@
 I am a passionate developer with a keen interest in web development, mobile development, open-source contributions and algorithm development. I enjoy learning new technologies and applying them to solve real-world problems.
 
 - 🔭 I’m currently working on: Tinytusk. A digital marketplace for the best digital assets on the planet.
-- 🌱 I’m currently learning: C++, .NET & Python for machine learning.
+- 🌱 I’m currently learning: Rust for Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate on: Open Source projects that are AI-centered alongside web development projects.
 - ⚡ Fun fact: Temple Labs is about to launch🚀
 
@@ -29,8 +29,7 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
+- [LinkedIn](www.linkedin.com/in/manny-etukudoh-97b81a194)
+- [Twitter](https://x.com/deadtargaryan)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
