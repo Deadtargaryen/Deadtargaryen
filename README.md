@@ -15,7 +15,7 @@ I am a passionate developer with a keen interest in web development, mobile deve
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** Python, JavaScript, C++, .NET, Java, Rust.
+- **Languages:** Python, JavaScript, TypeScript, C++, .NET, Java, Rust.
 - **Frameworks:** React, Django, Next, Nest, SpringBoot.
 - **Tools:** Git, Docker, Kubernetes, K8s, terraform, Github, Jest.  
 - **Databases:** MySQL, PostgreSQL, MongoDB, MariaDB.
